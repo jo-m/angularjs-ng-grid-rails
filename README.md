@@ -28,6 +28,11 @@ and `application.css`:
 
      *= require angular/ng-grid
 
+## ngGrid Plugins
+The plugins listed [here](https://github.com/angular-ui/ng-grid/tree/master/plugins) are included too. Add them like following:
+
+//= require angular/ng-grid/ng-grid-csv-export
+
 ## Update ngGrid version
 
 1. Just run the includeed script: `./copy.sh`. It will clone the repo and copy the assets.
