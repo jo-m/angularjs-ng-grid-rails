@@ -20,18 +20,13 @@ Or install it yourself as:
 
 Add it to your `application.js`:
 
-    //= require angular/ng-grid.debug
+    //= require angular/ui-grid
     // or
     //= require angular/ng-grid.min
 
 and `application.css`:
 
-     *= require angular/ng-grid
-
-## ngGrid Plugins
-The plugins listed [here](https://github.com/angular-ui/ng-grid/tree/master/plugins) are included too. Add them like following:
-
-//= require angular/ng-grid/ng-grid-csv-export
+     *= require angular/ui-grid
 
 ## Update ngGrid version
 
